@@ -8,6 +8,6 @@ class add{
         a=obj.nextInt();
         b=obj.nextInt();
         sum=a+b;
-        System.out.println("SUM OF THE TWO NUMBERS : "+sum);
+        System.out.println("Sum is : "+sum);
     }
 }
